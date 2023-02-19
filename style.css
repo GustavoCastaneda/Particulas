@@ -1,0 +1,23 @@
+
+body {
+    width: 100vw;
+    height: 100vh;
+     margin: 0;
+       background: transparent;
+     display: flex;
+     justify-content: center;
+   }
+   
+   canvas {
+    width: 100vw;
+    height: 100vh;
+    position:absolute; 
+   top: 0;
+     left: 0;
+   }
+   
+  
+   h1{
+    color: aliceblue;
+   }
+
